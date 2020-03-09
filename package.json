@@ -48,18 +48,18 @@
     "@storybook/addon-actions": "^5.3.14",
     "@storybook/addon-info": "^5.3.14",
     "@storybook/addon-knobs": "^5.3.14",
-    "@storybook/addon-storyshots": "^5.3.14",
     "@storybook/addon-links": "^5.3.14",
+    "@storybook/addon-storyshots": "^5.3.14",
     "@storybook/addons": "^5.3.14",
     "@storybook/preset-create-react-app": "^2.0.0",
     "@storybook/react": "^5.3.14",
-    "require-context.macro": "^1.2.2",
     "eslint": "^6.8.0",
     "eslint-config-airbnb": "^18.0.1",
     "eslint-plugin-import": "^2.20.1",
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.19.0",
     "eslint-plugin-react-hooks": "^1.7.0",
-    "react-test-renderer": "^16.13.0"
+    "react-test-renderer": "^16.13.0",
+    "require-context.macro": "^1.2.2"
   }
 }
