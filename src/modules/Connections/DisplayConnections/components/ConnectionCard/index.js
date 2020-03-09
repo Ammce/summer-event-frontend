@@ -48,10 +48,14 @@ const ConnectionCard = ({
 export default ConnectionCard;
 
 ConnectionCard.propTypes = {
+  /** test */
+
   header: PropTypes.string.isRequired,
+  /** test */
+
   onClick: PropTypes.func.isRequired,
   title: PropTypes.number.isRequired,
   arrival: PropTypes.string.isRequired,
   departure: PropTypes.string.isRequired,
-  sections: PropTypes.number.isRequired,
+  sections: PropTypes.number.isRequired
 };
